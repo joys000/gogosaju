@@ -1,0 +1,11 @@
+
+body {
+  margin: 0;
+  font-family: 'Gowun Dodum', sans-serif;
+  background-color: #fce4ec;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
